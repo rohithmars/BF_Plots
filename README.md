@@ -1,2 +1,2 @@
-# BF_VizTool
-A microphone array beamforming visualization toolbox in MATLAB.
+# BF_Plots
+Contains MATLAB scripts for plotting beampatterns for narrowband and wideband signals using linear and circular microphone arrays.
